@@ -1,5 +1,5 @@
-# kibana-plugin-echarts
-Kibana的Echarts图表插件
+# timeline_map
+Kibana的Echarts 时间轴趋势地图插件
 
 ## 基于：
     
@@ -22,5 +22,5 @@ vim package.json
     "node": "6.9.0"
   }
 node/bin/npm update
-bin/kibana-plugin install https://github.com/hivefans/kibana-plugin-echarts/files/985443/kibana-plugin-echarts.zip
+bin/kibana-plugin install https://github.com/hivefans/timeline_map/files/1024952/timeline_map_1.0.0.zip
 ```
