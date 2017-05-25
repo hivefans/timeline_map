@@ -102,7 +102,7 @@ module.controller('EchartsTimelineMapController', function ($scope, $element, $r
                 avg_speed = row[3];
                 avg_speed=avg_speed.toFixed(2);
 
-                if(i%prov_len==0){
+                if(all.dates.indexOf(datestr)===-1){
                     all.dates.push(getdateformat(datestr));
                     all.options.push(
                   {
