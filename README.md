@@ -1,6 +1,7 @@
 # timeline_map
 Kibana的Echarts 时间轴趋势地图插件
 
+![ScreenShot](https://raw.github.com/hivefans/timeline_map/master/timeline-map.png)
 ## 基于：
     
     Kibana 5.2.0
