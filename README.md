@@ -24,5 +24,5 @@ vim package.json
     "node": "6.9.0"
   }
 node/bin/npm update
-bin/kibana-plugin install https://github.com/hivefans/timeline_map/files/1024952/timeline_map_1.0.0.zip
+bin/kibana-plugin install https://github.com/hivefans/timeline_map/files/1030552/timeline_map.1.0.1.zip
 ```
