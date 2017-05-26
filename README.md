@@ -1,5 +1,6 @@
 # timeline_map
 Kibana的Echarts 时间轴趋势地图插件
+可以支持省份字段中英文，只支持手动选择日期，自动播放问题待解决。
 
 ![ScreenShot](https://raw.github.com/hivefans/timeline_map/master/timeline-map.png)
 ## 基于：
